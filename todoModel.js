@@ -1,1 +1,6 @@
-var TodoModel = Backbone.Model.extend({});
+var TodoModel = Backbone.Model.extend({
+	default:{
+		''
+	}
+
+});
